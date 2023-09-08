@@ -24,8 +24,13 @@ Este projeto pode ser executado localmente em seu ambiente de desenvolvimento. S
 
 4. **Explore a simulação:** Abra seu navegador e acesse `http://localhost:8080` para visualizar a simulação da página inicial do EasyBank. Navegue pelas diferentes seções e interaja com os componentes.
 
+
+## Deploy
+
+https://easy-bank-vue.vercel.app/
+
 ## Contribuições
 
-Este projeto é uma iniciativa de aprendizado contínuo e estamos abertos a contribuições da comunidade de desenvolvedores. Se você tiver sugestões, melhorias ou correções a fazer, sinta-se à vontade para criar uma *pull request* ou relatar problemas (*issues*) em nosso repositório no GitHub.
+Este projeto é uma iniciativa de aprendizado contínuo e estamos abertos a contribuições da comunidade de desenvolvedores. Se você tiver sugestões, melhorias ou correções a fazer, sinta-se à vontade para enviar.
 
 Agradecemos por explorar a simulação da página inicial do EasyBank e esperamos que este projeto tenha sido útil para você aprender mais sobre Vue.js, TypeScript e desenvolvimento web em geral. Divirta-se explorando e experimentando!
