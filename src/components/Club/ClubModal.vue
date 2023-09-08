@@ -133,6 +133,10 @@ export default defineComponent({
   box-shadow: 3px 3px 5px rgba(53, 203, 93, 0.2);
 }
 
+.modal-range::-webkit-slider-thumb:hover {
+  background-color: #259342;
+}
+
 .modal-range-section {
   margin: 0 auto;
   width: 100%;
