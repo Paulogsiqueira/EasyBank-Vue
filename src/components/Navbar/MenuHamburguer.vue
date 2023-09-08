@@ -1,10 +1,10 @@
 <template>
   <div class="menu">
-    <option class="menu-options">Home</option>
-    <option class="menu-options">About</option>
-    <option class="menu-options">Contact</option>
-    <option class="menu-options">Blog</option>
-    <option class="menu-options">Careers</option>
+    <p class="menu-options">Home</p>
+    <p class="menu-options">About</p>
+    <p class="menu-options">Contact</p>
+    <p class="menu-options">Blog</p>
+    <p class="menu-options">Careers</p>
   </div>
 </template>
 <script lang="ts">
