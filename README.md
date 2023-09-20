@@ -12,18 +12,6 @@ O EasyBank é um banco digital inovador, e esta simulação da página inicial f
 
 - **Interfaces:** Implementamos interfaces para definir a estrutura de dados que nossos componentes esperam receber, melhorando a documentação e facilitando a colaboração entre desenvolvedores.
 
-## Como Utilizar
-
-Este projeto pode ser executado localmente em seu ambiente de desenvolvimento. Siga estas etapas para começar:
-
-1. **Clone o repositório:** Use o comando `git clone` para baixar este projeto para o seu computador.
-
-2. **Instale as dependências:** Certifique-se de ter o Node.js instalado e, em seguida, execute `npm install` no diretório do projeto para instalar todas as dependências.
-
-3. **Execute o projeto:** Após a instalação das dependências, use o comando `npm run serve` para iniciar o servidor de desenvolvimento. O projeto estará disponível em `http://localhost:8080` (ou em outra porta, dependendo da configuração).
-
-4. **Explore a simulação:** Abra seu navegador e acesse `http://localhost:8080` para visualizar a simulação da página inicial do EasyBank. Navegue pelas diferentes seções e interaja com os componentes.
-
 
 ## Deploy
 
